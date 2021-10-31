@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jason
+- 👀 I’m interested in some codig, ham radio, emergency communications
+- 🌱 I’m currently learning Azure cloud stuff
+- 💞️ I’m looking to collaborate on anything.
+- 📫 jason@castlesking.com
